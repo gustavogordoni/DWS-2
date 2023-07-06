@@ -1,0 +1,65 @@
+h1{
+    text-align: center;
+}
+
+form{
+    border: 2px solid blue;
+    border-radius: 2vw;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+
+    width: 25%;
+    height: auto;
+
+    margin-top: 2vw;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.d1{
+    display: flex;
+    justify-content: center;
+    flex-flow: column;
+}
+
+.d2{
+    height: auto;
+    width: auto;
+    margin: 1.3vw 1.3vw 0 1.3vw;
+}
+
+.d3{
+    display: flex;
+    justify-content: space-around;
+
+    height: auto;
+    width: auto;
+}
+
+label{
+    font-family: 'Poppins', sans-serif;
+    font-size: medium;
+}
+
+input{
+    width: 100%;
+}
+
+button{
+    width: 100%;
+    
+}
+
+.btn{
+    margin: 1.3vw;
+    height: auto;
+    width: 90%;
+}
+
+.neon{
+    border: 2px blue solid;
+    border-radius:4px;
+    
+}

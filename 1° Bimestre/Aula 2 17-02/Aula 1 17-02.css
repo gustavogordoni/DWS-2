@@ -1,0 +1,73 @@
+body{
+    margin: 0;
+}
+
+.div1{
+    border-bottom: 3px solid black;
+    border: 0 3px 0 0;
+    background-color: rgb(197, 197, 197);
+    display: flex;
+    justify-content: center;
+    padding: 1vw 0 2vw 0;
+}
+/*------------------------------------------------------------*/
+
+.fonte{
+    font-family: 'Cedarville Cursive', cursive;
+    font-size: xx-large;
+    justify-content: center;
+}
+
+.div2{
+    /*border-right: solid 3px black;*/
+    width: 39%;
+    text-align: center; 
+    float: left;
+
+    display: flex;
+    justify-content: center;
+}
+
+.figure{
+    background-color: rgb(108, 248, 108);
+    border-radius: 20px;
+    padding: 1.5vw;
+    width: 90%;
+}
+
+.img1{
+    width: 90%;
+}
+/*------------------------------------------------------------*/
+.div3{
+    width: 56%;
+    float: right;
+    margin-right: 2vw;
+    padding-left: 2vw;
+    
+    text-align: justify;
+
+    border-left: solid 3px black;
+
+    
+}
+
+h2{
+    margin-bottom: 0;
+}
+
+.div4{
+    border-top: double green 1vw;
+    margin-top: 0;
+}
+
+.img2{
+    width: 40%;
+    float: right;
+    margin: 0 0 1vw 2.5vw;
+}
+
+.figure2{
+    margin: 0;
+}
+

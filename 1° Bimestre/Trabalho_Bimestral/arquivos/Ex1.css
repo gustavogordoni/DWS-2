@@ -1,0 +1,50 @@
+form{
+    border-radius: 6px;
+    float: center;
+
+    padding: 1vw;
+}
+
+.d1{
+    display: inline-block;
+    margin-right: 6px;
+
+    width: 35%;
+
+    text-align: right;
+
+}
+
+.d2{
+    display: inline-block;
+    width: 70%; 
+}
+
+.d3{
+    display: inline-block;
+    width: 100%;
+
+    display: flex;
+    justify-content: center;     
+}
+
+.btn{
+    margin-left: 1vw;
+}
+
+input, textarea{
+    width: 100%;
+}
+
+.d{
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+
+    display: flex;
+
+    align-items: flex-start;
+
+    border: 1px red solid;
+   
+}

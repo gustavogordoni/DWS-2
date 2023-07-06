@@ -1,0 +1,38 @@
+PROVA DO 2° BIMESTRE - 8 QUESTÕES - não cai BD
+
+-- Aula 11 – PHP: Operadores e estruturas de decisão
+Operadores: 
+Estruturas condicionais: if else
+
+
+Aula 11 – Bootstrap framework
+Bootstrap: o que ele é, por que usar, O que é framework, deferença entre as formas de utilização - vantagens
+
+
+-- Aula 13 – PHP: estruturas de repetição
+Qual a estrutura de repetição a se melhor utilizar - Depende
+FOREACH - é melhor em array
+
+Exercício de o que será mostrado na tela
+
+
+-- Aula 15 – PHP: inclusão de arquivos
+include require
+
+Pra que serve - incluir trechos de códigos
+
+Diferença entre eles:Como ele trata dos erros=  include - ele continua aexecução do códigos]
+
+
+-- Aula 16 – PHP: funções built-in e coleções (arrays)
+Funções internas - Por que elas são boas - facilitam / oferecer funcionalidades prontas
+Coleções - tipo de variávrel
+Vantagem  - melhor desempenho de execução + rápidas
+Sintaxe - 
+
+$a = [1, 2]
+ou
+$a = array (1, 2)
+
+
+-- Praticando
