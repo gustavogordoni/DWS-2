@@ -18,4 +18,5 @@
 
         <?php 
             require 'footer.php';
+            require 'js.php';
         ?>
