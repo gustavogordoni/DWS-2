@@ -67,16 +67,7 @@
             <button value = "<?= $value ?>" type="submit" class="btn <?= $class ?> p-3 mx-auto rounded-pill" id="alterar_tema" name = "tema"><?= $value ?> mode</button>
           </form>
         </div>
-        
-        <div class="col-2 d-block my-auto">
-          <button type="button" class="btn custom-button dark" id="themes">
-            <span class="circle" aria-hidden="true">  
-              <span class="icon arrow"></span>
-            </span>
-            <span id = "button-text" class="button-text mt-1 fs-5">Dark Mode</span>
-          </button>
-        </div>  
-           
+                 
       </div> 
     
       <hr>
