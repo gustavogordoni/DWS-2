@@ -4,11 +4,6 @@ require 'logica-autenticacao.php';
 
 $titulo = "Início";
 require 'cabecalho.php';
-
-echo "<pre>";
-var_dump($_SESSION);
-echo "</pre>";
-
 ?>
 
 <p class="display-4">
